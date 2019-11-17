@@ -46,5 +46,10 @@ li a:hover {
 
 .body2 {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin-right: 50%;
+  margin-right: 40%;
+}
+
+.body_effects {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin-right: 30%;
 }
